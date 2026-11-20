@@ -1,0 +1,6 @@
+{
+  "old_epoch": "old",
+  "last_old_tx": 89,
+  "new_epoch": "new",
+  "new_cut_tx": 3
+}

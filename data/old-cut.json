@@ -1,0 +1,20 @@
+{
+  "epoch": "old",
+  "cut": 87,
+  "begin": "r00",
+  "end": "r99",
+  "files": [
+    {
+      "file": "old-a.csv",
+      "begin": "r00",
+      "end": "r20",
+      "sha256": "ff8dab3734625f3f5149d4f233117a1445e97a47be912a6f73d95245783087c8"
+    },
+    {
+      "file": "old-b.csv",
+      "begin": "r20",
+      "end": "r99",
+      "sha256": "d72d21998b2c662c12e29a48701c890ea530d0b820a52b1afaac9ff2b52156d9"
+    }
+  ]
+}
